@@ -1,4 +1,4 @@
-onst getGets = (arr) => {
+const getGets = (arr) => {
     let index = 0;
 
     return () => {
